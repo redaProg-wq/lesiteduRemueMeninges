@@ -124,7 +124,8 @@ header{
     padding-top: 5rem;
 
 }
-
+.container-separator-logo{
+    max-width: 25vw;}
 
 
 .container-separator-logo img{
