@@ -131,7 +131,7 @@ header{
 }
 .container-separator-text p {
     color: #eee;
-    font-size: 3rem;
+    font-size: 2.5rem;
     padding-bottom: 5rem;
 }
 
@@ -162,7 +162,7 @@ header{
 
 /* Mediaqueries */
 
-@media screen and (max-width : 800px) {
+@media screen and (max-width : 700px) {
     .valueP p {
         margin-left: 0;
     }
@@ -197,7 +197,7 @@ header{
     .container-separator-text p {
         text-align: center;
         color: #eee;
-        font-size: 2rem;
+        font-size: 1.5rem;
         padding-top: 2rem;
     }
     
