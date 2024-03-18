@@ -125,6 +125,13 @@ header{
 
 }
 
+
+
+.container-separator-logo img{
+       width: 100%;
+
+    }
+
 .container-separator-text {
     display: flex;
     align-items: center;
