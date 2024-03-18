@@ -62,7 +62,7 @@ header{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 500px;
+    min-height: 400px;
 }
 .valueP h1{
     font-size: 4rem;
